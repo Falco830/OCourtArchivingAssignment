@@ -1,0 +1,11 @@
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\bin\Debug\netcoreapp2.2\OcourtArchiving.deps.json
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\bin\Debug\netcoreapp2.2\OcourtArchiving.runtimeconfig.json
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\bin\Debug\netcoreapp2.2\OcourtArchiving.runtimeconfig.dev.json
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\bin\Debug\netcoreapp2.2\OcourtArchiving.dll
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\bin\Debug\netcoreapp2.2\OcourtArchiving.pdb
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\obj\Debug\netcoreapp2.2\OcourtArchiving.csprojAssemblyReference.cache
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\obj\Debug\netcoreapp2.2\OcourtArchiving.csproj.CoreCompileInputs.cache
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\obj\Debug\netcoreapp2.2\OcourtArchiving.AssemblyInfoInputs.cache
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\obj\Debug\netcoreapp2.2\OcourtArchiving.AssemblyInfo.cs
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\obj\Debug\netcoreapp2.2\OcourtArchiving.dll
+C:\Users\AlecMichel\source\repos\OcourtArchiving\OcourtArchiving\obj\Debug\netcoreapp2.2\OcourtArchiving.pdb
